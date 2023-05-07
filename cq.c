@@ -9,6 +9,7 @@
 #include "customer.h"
 #include "queue.h"
 #include "teller.h"
+#include "list_gen.h"
 
 // global variables
 int total_customers = 0;
@@ -17,6 +18,10 @@ pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 // == Main Function == //
 int main()
 {
+    // generate new list of customers
+    generate_list();
+
+    // create queue
     c_queue queue = {NULL, NULL};
     // create 4 tellers
     pthread_t teller_threads[4];

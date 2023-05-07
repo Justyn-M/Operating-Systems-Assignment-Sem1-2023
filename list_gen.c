@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <time.h>
 
+#include "list_gen.h"
+
 int generate_list()
 {
     // declaring variables
