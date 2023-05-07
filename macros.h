@@ -3,4 +3,6 @@
 
 #define MAX_LINE_LENGTH 100
 
+#define TIME_BUFFER 50
+
 #endif
