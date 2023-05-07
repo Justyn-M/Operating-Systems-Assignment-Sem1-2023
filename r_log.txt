@@ -1,0 +1,1624 @@
+====================
+Teller 1
+Customer 1 : W
+Arrival Time: 02:49:12
+Response Time: 02:49:12
+====================
+====================
+Customer 1 : W
+Arrival Time: 02:49:12
+====================
+====================
+Customer 2 : I
+Arrival Time: 02:49:15
+====================
+====================
+Teller 4
+Customer 2 : I
+Arrival Time: 02:49:15
+Response Time: 02:49:15
+====================
+====================
+Customer 3 : I
+Arrival Time: 02:49:18
+====================
+====================
+Teller 3
+Customer 3 : I
+Arrival Time: 02:49:18
+Response Time: 02:49:18
+====================
+====================
+Teller 1
+Customer 1 : W
+Arrival Time: 02:49:12
+Completion Time: 02:49:19
+====================
+====================
+Customer 4 : D
+Arrival Time: 11:43:12
+====================
+====================
+Teller 1
+Customer 4 : D
+Arrival Time: 02:49:21
+Response Time: 02:49:21
+====================
+====================
+Customer 5 : I
+Arrival Time: 02:49:24
+====================
+====================
+Teller 2
+Customer 5 : I
+Arrival Time: 02:49:24
+Response Time: 02:49:24
+====================
+====================
+Teller 4
+Customer 2 : I
+Arrival Time: 02:49:15
+Completion Time: 02:49:27
+====================
+====================
+Customer 6 : W
+Arrival Time: 02:49:27
+====================
+====================
+Teller 4
+Customer 6 : W
+Arrival Time: 02:49:27
+Response Time: 02:49:28
+====================
+====================
+Teller 1
+Customer 4 : D
+Arrival Time: 02:49:21
+Completion Time: 02:49:30
+====================
+====================
+Customer 7 : W
+Arrival Time: 02:49:30
+====================
+====================
+Teller 3
+Customer 3 : I
+Arrival Time: 02:49:18
+Completion Time: 02:49:30
+====================
+====================
+Teller 3
+Customer 7 : W
+Arrival Time: 02:49:30
+Response Time: 02:49:30
+====================
+====================
+Customer 8 : D
+Arrival Time: 02:49:33
+====================
+====================
+Teller 1
+Customer 8 : D
+Arrival Time: 02:49:33
+Response Time: 02:49:34
+====================
+====================
+Teller 4
+Customer 6 : W
+Arrival Time: 02:49:27
+Completion Time: 02:49:35
+====================
+====================
+Customer 9 : W
+Arrival Time: 02:49:36
+====================
+====================
+Teller 2
+Customer 5 : I
+Arrival Time: 02:49:24
+Completion Time: 02:49:36
+====================
+====================
+Teller 2
+Customer 9 : W
+Arrival Time: 02:49:36
+Response Time: 02:49:36
+====================
+====================
+Teller 3
+Customer 7 : W
+Arrival Time: 02:49:30
+Completion Time: 02:49:37
+====================
+====================
+Customer 10 : W
+Arrival Time: 02:49:39
+====================
+====================
+Teller 4
+Customer 10 : W
+Arrival Time: 02:49:39
+Response Time: 02:49:39
+====================
+====================
+Customer 11 : I
+Arrival Time: 02:49:42
+====================
+====================
+Teller 3
+Customer 11 : I
+Arrival Time: 02:49:42
+Response Time: 02:49:42
+====================
+====================
+Teller 1
+Customer 8 : D
+Arrival Time: 02:49:33
+Completion Time: 02:49:43
+====================
+====================
+Teller 2
+Customer 9 : W
+Arrival Time: 02:49:36
+Completion Time: 02:49:43
+====================
+====================
+Customer 12 : I
+Arrival Time: 11:43:12
+====================
+====================
+Teller 1
+Customer 12 : I
+Arrival Time: 02:49:45
+Response Time: 02:49:45
+====================
+====================
+Teller 4
+Customer 10 : W
+Arrival Time: 02:49:39
+Completion Time: 02:49:46
+====================
+====================
+Customer 13 : W
+Arrival Time: 01:01:04
+====================
+====================
+Teller 4
+Customer 13 : W
+Arrival Time: 02:49:48
+Response Time: 02:49:48
+====================
+====================
+Customer 14 : W
+Arrival Time: 02:49:51
+====================
+====================
+Teller 2
+Customer 14 : W
+Arrival Time: 02:49:51
+Response Time: 02:49:51
+====================
+====================
+Teller 3
+Customer 11 : I
+Arrival Time: 02:49:42
+Completion Time: 02:49:54
+====================
+====================
+Customer 15 : W
+Arrival Time: 02:49:54
+====================
+====================
+Teller 3
+Customer 15 : W
+Arrival Time: 02:49:54
+Response Time: 02:49:55
+====================
+====================
+Teller 4
+Customer 13 : W
+Arrival Time: 02:49:48
+Completion Time: 02:49:55
+====================
+====================
+Teller 1
+Customer 12 : I
+Arrival Time: 02:49:45
+Completion Time: 02:49:57
+====================
+====================
+Customer 16 : D
+Arrival Time: 02:49:57
+====================
+====================
+Teller 1
+Customer 16 : D
+Arrival Time: 02:49:57
+Response Time: 02:49:58
+====================
+====================
+Teller 2
+Customer 14 : W
+Arrival Time: 02:49:51
+Completion Time: 02:49:58
+====================
+====================
+Customer 17 : W
+Arrival Time: 02:50:00
+====================
+====================
+Teller 4
+Customer 17 : W
+Arrival Time: 02:50:00
+Response Time: 02:50:00
+====================
+====================
+Teller 3
+Customer 15 : W
+Arrival Time: 02:49:54
+Completion Time: 02:50:02
+====================
+====================
+Customer 18 : W
+Arrival Time: 02:50:03
+====================
+====================
+Teller 2
+Customer 18 : W
+Arrival Time: 02:50:03
+Response Time: 02:50:03
+====================
+====================
+Customer 19 : I
+Arrival Time: 02:50:06
+====================
+====================
+Teller 1
+Customer 16 : D
+Arrival Time: 02:49:57
+Completion Time: 02:50:07
+====================
+====================
+Teller 1
+Customer 19 : I
+Arrival Time: 02:50:06
+Response Time: 02:50:07
+====================
+====================
+Teller 4
+Customer 17 : W
+Arrival Time: 02:50:00
+Completion Time: 02:50:07
+====================
+====================
+Customer 20 : D
+Arrival Time: 02:50:09
+====================
+====================
+Teller 3
+Customer 20 : D
+Arrival Time: 02:50:09
+Response Time: 02:50:09
+====================
+====================
+Teller 2
+Customer 18 : W
+Arrival Time: 02:50:03
+Completion Time: 02:50:10
+====================
+====================
+Customer 21 : W
+Arrival Time: 02:50:12
+====================
+====================
+Teller 4
+Customer 21 : W
+Arrival Time: 02:50:12
+Response Time: 02:50:12
+====================
+====================
+Customer 22 : D
+Arrival Time: 02:50:15
+====================
+====================
+Teller 2
+Customer 22 : D
+Arrival Time: 02:50:15
+Response Time: 02:50:15
+====================
+====================
+Teller 3
+Customer 20 : D
+Arrival Time: 02:50:09
+Completion Time: 02:50:18
+====================
+====================
+Customer 23 : I
+Arrival Time: 02:50:18
+====================
+====================
+Teller 1
+Customer 19 : I
+Arrival Time: 02:50:06
+Completion Time: 02:50:19
+====================
+====================
+Teller 1
+Customer 23 : I
+Arrival Time: 02:50:18
+Response Time: 02:50:19
+====================
+====================
+Teller 4
+Customer 21 : W
+Arrival Time: 02:50:12
+Completion Time: 02:50:19
+====================
+====================
+Customer 24 : W
+Arrival Time: 02:50:21
+====================
+====================
+Teller 4
+Customer 24 : W
+Arrival Time: 02:50:21
+Response Time: 02:50:21
+====================
+====================
+Customer 25 : D
+Arrival Time: 02:50:24
+====================
+====================
+Teller 3
+Customer 25 : D
+Arrival Time: 02:50:24
+Response Time: 02:50:24
+====================
+====================
+Teller 2
+Customer 22 : D
+Arrival Time: 02:50:15
+Completion Time: 02:50:24
+====================
+====================
+Customer 26 : I
+Arrival Time: 02:50:27
+====================
+====================
+Teller 2
+Customer 26 : I
+Arrival Time: 02:50:27
+Response Time: 02:50:27
+====================
+====================
+Teller 4
+Customer 24 : W
+Arrival Time: 02:50:21
+Completion Time: 02:50:28
+====================
+====================
+Customer 27 : W
+Arrival Time: 02:50:30
+====================
+====================
+Teller 4
+Customer 27 : W
+Arrival Time: 02:50:30
+Response Time: 02:50:30
+====================
+====================
+Teller 1
+Customer 23 : I
+Arrival Time: 02:50:18
+Completion Time: 02:50:31
+====================
+====================
+Teller 3
+Customer 25 : D
+Arrival Time: 02:50:24
+Completion Time: 02:50:33
+====================
+====================
+Teller 3
+Customer 28 : I
+Arrival Time: 02:50:33
+Response Time: 02:50:33
+====================
+====================
+Customer 28 : I
+Arrival Time: 13:17:21
+====================
+====================
+Customer 29 : I
+Arrival Time: 02:50:36
+====================
+====================
+Teller 1
+Customer 29 : I
+Arrival Time: 02:50:36
+Response Time: 02:50:37
+====================
+====================
+Teller 4
+Customer 27 : W
+Arrival Time: 02:50:30
+Completion Time: 02:50:37
+====================
+====================
+Customer 30 : I
+Arrival Time: 02:50:39
+====================
+====================
+Teller 2
+Customer 26 : I
+Arrival Time: 02:50:27
+Completion Time: 02:50:39
+====================
+====================
+Teller 2
+Customer 30 : I
+Arrival Time: 02:50:39
+Response Time: 02:50:39
+====================
+====================
+Customer 31 : I
+Arrival Time: 02:50:42
+====================
+====================
+Teller 4
+Customer 31 : I
+Arrival Time: 02:50:42
+Response Time: 02:50:42
+====================
+====================
+Teller 3
+Customer 28 : I
+Arrival Time: 02:50:33
+Completion Time: 02:50:45
+====================
+====================
+Customer 32 : W
+Arrival Time: 02:50:45
+====================
+====================
+Teller 3
+Customer 32 : W
+Arrival Time: 02:50:45
+Response Time: 02:50:46
+====================
+====================
+Customer 33 : W
+Arrival Time: 02:50:48
+====================
+====================
+Teller 1
+Customer 29 : I
+Arrival Time: 02:50:36
+Completion Time: 02:50:49
+====================
+====================
+Teller 1
+Customer 33 : W
+Arrival Time: 02:50:48
+Response Time: 02:50:49
+====================
+====================
+Teller 2
+Customer 30 : I
+Arrival Time: 02:50:39
+Completion Time: 02:50:51
+====================
+====================
+Customer 34 : D
+Arrival Time: 02:50:51
+====================
+====================
+Teller 2
+Customer 34 : D
+Arrival Time: 02:50:51
+Response Time: 02:50:52
+====================
+====================
+Teller 3
+Customer 32 : W
+Arrival Time: 02:50:45
+Completion Time: 02:50:53
+====================
+====================
+Teller 4
+Customer 31 : I
+Arrival Time: 02:50:42
+Completion Time: 02:50:54
+====================
+====================
+Customer 35 : I
+Arrival Time: 02:50:54
+====================
+====================
+Teller 4
+Customer 35 : I
+Arrival Time: 02:50:54
+Response Time: 02:50:54
+====================
+====================
+Teller 1
+Customer 33 : W
+Arrival Time: 02:50:48
+Completion Time: 02:50:56
+====================
+====================
+Customer 36 : I
+Arrival Time: 02:50:57
+====================
+====================
+Teller 3
+Customer 36 : I
+Arrival Time: 02:50:57
+Response Time: 02:50:57
+====================
+====================
+Customer 37 : I
+Arrival Time: 02:51:00
+====================
+====================
+Teller 1
+Customer 37 : I
+Arrival Time: 02:51:00
+Response Time: 02:51:01
+====================
+====================
+Teller 2
+Customer 34 : D
+Arrival Time: 02:50:51
+Completion Time: 02:51:01
+====================
+====================
+Customer 38 : I
+Arrival Time: 02:51:03
+====================
+====================
+Teller 2
+Customer 38 : I
+Arrival Time: 02:51:03
+Response Time: 02:51:04
+====================
+====================
+Teller 4
+Customer 35 : I
+Arrival Time: 02:50:54
+Completion Time: 02:51:06
+====================
+====================
+Customer 39 : W
+Arrival Time: 02:51:06
+====================
+====================
+Teller 4
+Customer 39 : W
+Arrival Time: 02:51:06
+Response Time: 02:51:07
+====================
+====================
+Teller 3
+Customer 36 : I
+Arrival Time: 02:50:57
+Completion Time: 02:51:09
+====================
+====================
+Customer 40 : I
+Arrival Time: 02:51:09
+====================
+====================
+Teller 3
+Customer 40 : I
+Arrival Time: 02:51:09
+Response Time: 02:51:10
+====================
+====================
+Customer 41 : W
+Arrival Time: 02:51:12
+====================
+====================
+Teller 1
+Customer 37 : I
+Arrival Time: 02:51:00
+Completion Time: 02:51:13
+====================
+====================
+Teller 1
+Customer 41 : W
+Arrival Time: 02:51:12
+Response Time: 02:51:13
+====================
+====================
+Teller 4
+Customer 39 : W
+Arrival Time: 02:51:06
+Completion Time: 02:51:14
+====================
+====================
+Customer 42 : W
+Arrival Time: 02:51:15
+====================
+====================
+Teller 2
+Customer 38 : I
+Arrival Time: 02:51:03
+Completion Time: 02:51:16
+====================
+====================
+Teller 2
+Customer 42 : W
+Arrival Time: 02:51:15
+Response Time: 02:51:16
+====================
+====================
+Customer 43 : W
+Arrival Time: 02:51:18
+====================
+====================
+Teller 4
+Customer 43 : W
+Arrival Time: 02:51:18
+Response Time: 02:51:18
+====================
+====================
+Teller 1
+Customer 41 : W
+Arrival Time: 02:51:12
+Completion Time: 02:51:20
+====================
+====================
+Customer 44 : I
+Arrival Time: 02:51:21
+====================
+====================
+Teller 1
+Customer 44 : I
+Arrival Time: 02:51:21
+Response Time: 02:51:22
+====================
+====================
+Teller 3
+Customer 40 : I
+Arrival Time: 02:51:09
+Completion Time: 02:51:22
+====================
+====================
+Teller 2
+Customer 42 : W
+Arrival Time: 02:51:15
+Completion Time: 02:51:23
+====================
+====================
+Customer 45 : W
+Arrival Time: 02:51:24
+====================
+====================
+Teller 2
+Customer 45 : W
+Arrival Time: 02:51:24
+Response Time: 02:51:25
+====================
+====================
+Teller 4
+Customer 43 : W
+Arrival Time: 02:51:18
+Completion Time: 02:51:25
+====================
+====================
+Customer 46 : W
+Arrival Time: 02:51:27
+====================
+====================
+Teller 3
+Customer 46 : W
+Arrival Time: 02:51:27
+Response Time: 02:51:28
+====================
+====================
+Customer 47 : W
+Arrival Time: 02:51:30
+====================
+====================
+Teller 4
+Customer 47 : W
+Arrival Time: 02:51:30
+Response Time: 02:51:31
+====================
+====================
+Teller 2
+Customer 45 : W
+Arrival Time: 02:51:24
+Completion Time: 02:51:32
+====================
+====================
+Customer 48 : D
+Arrival Time: 02:51:33
+====================
+====================
+Teller 1
+Customer 44 : I
+Arrival Time: 02:51:21
+Completion Time: 02:51:34
+====================
+====================
+Teller 1
+Customer 48 : D
+Arrival Time: 02:51:33
+Response Time: 02:51:34
+====================
+====================
+Teller 3
+Customer 46 : W
+Arrival Time: 02:51:27
+Completion Time: 02:51:35
+====================
+====================
+Customer 49 : D
+Arrival Time: 02:51:36
+====================
+====================
+Teller 3
+Customer 49 : D
+Arrival Time: 02:51:36
+Response Time: 02:51:37
+====================
+====================
+Teller 4
+Customer 47 : W
+Arrival Time: 02:51:30
+Completion Time: 02:51:38
+====================
+====================
+Customer 50 : I
+Arrival Time: 02:51:39
+====================
+====================
+Teller 4
+Customer 50 : I
+Arrival Time: 02:51:39
+Response Time: 02:51:40
+====================
+====================
+Customer 51 : I
+Arrival Time: 02:51:42
+====================
+====================
+Teller 2
+Customer 51 : I
+Arrival Time: 02:51:42
+Response Time: 02:51:42
+====================
+====================
+Teller 1
+Customer 48 : D
+Arrival Time: 02:51:33
+Completion Time: 02:51:43
+====================
+====================
+Customer 52 : I
+Arrival Time: 02:51:45
+====================
+====================
+Teller 1
+Customer 52 : I
+Arrival Time: 02:51:45
+Response Time: 02:51:46
+====================
+====================
+Teller 3
+Customer 49 : D
+Arrival Time: 02:51:36
+Completion Time: 02:51:46
+====================
+====================
+Customer 53 : W
+Arrival Time: 02:51:48
+====================
+====================
+Teller 3
+Customer 53 : W
+Arrival Time: 02:51:48
+Response Time: 02:51:49
+====================
+====================
+Customer 54 : I
+Arrival Time: 02:51:51
+====================
+====================
+Teller 4
+Customer 50 : I
+Arrival Time: 02:51:39
+Completion Time: 02:51:52
+====================
+====================
+Teller 4
+Customer 54 : I
+Arrival Time: 02:51:51
+Response Time: 02:51:52
+====================
+====================
+Teller 2
+Customer 51 : I
+Arrival Time: 02:51:42
+Completion Time: 02:51:54
+====================
+====================
+Customer 55 : W
+Arrival Time: 02:51:54
+====================
+====================
+Teller 2
+Customer 55 : W
+Arrival Time: 02:51:54
+Response Time: 02:51:55
+====================
+====================
+Teller 3
+Customer 53 : W
+Arrival Time: 02:51:48
+Completion Time: 02:51:56
+====================
+====================
+Customer 56 : I
+Arrival Time: 02:51:57
+====================
+====================
+Teller 1
+Customer 52 : I
+Arrival Time: 02:51:45
+Completion Time: 02:51:58
+====================
+====================
+Teller 1
+Customer 56 : I
+Arrival Time: 02:51:57
+Response Time: 02:51:58
+====================
+====================
+Customer 57 : I
+Arrival Time: 02:52:00
+====================
+====================
+Teller 3
+Customer 57 : I
+Arrival Time: 02:52:00
+Response Time: 02:52:01
+====================
+====================
+Teller 2
+Customer 55 : W
+Arrival Time: 02:51:54
+Completion Time: 02:52:02
+====================
+====================
+Customer 58 : D
+Arrival Time: 02:52:03
+====================
+====================
+Teller 4
+Customer 54 : I
+Arrival Time: 02:51:51
+Completion Time: 02:52:04
+====================
+====================
+Teller 4
+Customer 58 : D
+Arrival Time: 02:52:03
+Response Time: 02:52:04
+====================
+====================
+Customer 59 : I
+Arrival Time: 02:52:06
+====================
+====================
+Teller 2
+Customer 59 : I
+Arrival Time: 02:52:06
+Response Time: 02:52:07
+====================
+====================
+Customer 60 : D
+Arrival Time: 02:52:09
+====================
+====================
+Teller 1
+Customer 56 : I
+Arrival Time: 02:51:57
+Completion Time: 02:52:10
+====================
+====================
+Teller 1
+Customer 60 : D
+Arrival Time: 02:52:09
+Response Time: 02:52:10
+====================
+====================
+Customer 61 : W
+Arrival Time: 02:52:12
+====================
+====================
+Teller 4
+Customer 58 : D
+Arrival Time: 02:52:03
+Completion Time: 02:52:13
+====================
+====================
+Teller 4
+Customer 61 : W
+Arrival Time: 02:52:12
+Response Time: 02:52:13
+====================
+====================
+Teller 3
+Customer 57 : I
+Arrival Time: 02:52:00
+Completion Time: 02:52:13
+====================
+====================
+Customer 62 : D
+Arrival Time: 02:52:15
+====================
+====================
+Teller 3
+Customer 62 : D
+Arrival Time: 02:52:15
+Response Time: 02:52:16
+====================
+====================
+Customer 63 : D
+Arrival Time: 02:52:18
+====================
+====================
+Teller 1
+Customer 60 : D
+Arrival Time: 02:52:09
+Completion Time: 02:52:19
+====================
+====================
+Teller 1
+Customer 63 : D
+Arrival Time: 02:52:18
+Response Time: 02:52:19
+====================
+====================
+Teller 2
+Customer 59 : I
+Arrival Time: 02:52:06
+Completion Time: 02:52:19
+====================
+====================
+Teller 4
+Customer 61 : W
+Arrival Time: 02:52:12
+Completion Time: 02:52:20
+====================
+====================
+Customer 64 : D
+Arrival Time: 02:52:21
+====================
+====================
+Teller 4
+Customer 64 : D
+Arrival Time: 02:52:21
+Response Time: 02:52:22
+====================
+====================
+Customer 65 : D
+Arrival Time: 02:52:24
+====================
+====================
+Teller 2
+Customer 65 : D
+Arrival Time: 02:52:24
+Response Time: 02:52:24
+====================
+====================
+Teller 3
+Customer 62 : D
+Arrival Time: 02:52:15
+Completion Time: 02:52:25
+====================
+====================
+Customer 66 : D
+Arrival Time: 02:52:27
+====================
+====================
+Teller 1
+Customer 63 : D
+Arrival Time: 02:52:18
+Completion Time: 02:52:28
+====================
+====================
+Teller 1
+Customer 66 : D
+Arrival Time: 02:52:27
+Response Time: 02:52:28
+====================
+====================
+Customer 67 : W
+Arrival Time: 02:52:30
+====================
+====================
+Teller 3
+Customer 67 : W
+Arrival Time: 02:52:30
+Response Time: 02:52:30
+====================
+====================
+Teller 4
+Customer 64 : D
+Arrival Time: 02:52:21
+Completion Time: 02:52:31
+====================
+====================
+Teller 2
+Customer 65 : D
+Arrival Time: 02:52:24
+Completion Time: 02:52:33
+====================
+====================
+Customer 68 : W
+Arrival Time: 02:52:33
+====================
+====================
+Teller 4
+Customer 68 : W
+Arrival Time: 02:52:33
+Response Time: 02:52:34
+====================
+====================
+Teller 2
+Customer 69 : D
+Arrival Time: 02:52:36
+Response Time: 02:52:36
+====================
+====================
+Customer 69 : D
+Arrival Time: 02:52:36
+====================
+====================
+Teller 1
+Customer 66 : D
+Arrival Time: 02:52:27
+Completion Time: 02:52:37
+====================
+====================
+Teller 3
+Customer 67 : W
+Arrival Time: 02:52:30
+Completion Time: 02:52:37
+====================
+====================
+Customer 70 : D
+Arrival Time: 02:52:39
+====================
+====================
+Teller 1
+Customer 70 : D
+Arrival Time: 02:52:39
+Response Time: 02:52:40
+====================
+====================
+Teller 4
+Customer 68 : W
+Arrival Time: 02:52:33
+Completion Time: 02:52:41
+====================
+====================
+Customer 71 : D
+Arrival Time: 02:52:42
+====================
+====================
+Teller 3
+Customer 71 : D
+Arrival Time: 02:52:42
+Response Time: 02:52:42
+====================
+====================
+Teller 2
+Customer 69 : D
+Arrival Time: 02:52:36
+Completion Time: 02:52:45
+====================
+====================
+Customer 72 : I
+Arrival Time: 02:52:45
+====================
+====================
+Teller 4
+Customer 72 : I
+Arrival Time: 02:52:45
+Response Time: 02:52:46
+====================
+====================
+Customer 73 : I
+Arrival Time: 18:52:48
+====================
+====================
+Teller 2
+Customer 73 : I
+Arrival Time: 02:52:48
+Response Time: 02:52:48
+====================
+====================
+Teller 1
+Customer 70 : D
+Arrival Time: 02:52:39
+Completion Time: 02:52:49
+====================
+====================
+Teller 3
+Customer 71 : D
+Arrival Time: 02:52:42
+Completion Time: 02:52:51
+====================
+====================
+Customer 74 : D
+Arrival Time: 02:52:51
+====================
+====================
+Teller 1
+Customer 74 : D
+Arrival Time: 02:52:51
+Response Time: 02:52:52
+====================
+====================
+Customer 75 : D
+Arrival Time: 02:52:54
+====================
+====================
+Teller 3
+Customer 75 : D
+Arrival Time: 02:52:54
+Response Time: 02:52:54
+====================
+====================
+Customer 76 : W
+Arrival Time: 02:52:57
+====================
+====================
+Teller 4
+Customer 72 : I
+Arrival Time: 02:52:45
+Completion Time: 02:52:58
+====================
+====================
+Teller 4
+Customer 76 : W
+Arrival Time: 02:52:57
+Response Time: 02:52:58
+====================
+====================
+Teller 2
+Customer 73 : I
+Arrival Time: 02:52:48
+Completion Time: 02:53:00
+====================
+====================
+Customer 77 : I
+Arrival Time: 02:53:00
+====================
+====================
+Teller 1
+Customer 74 : D
+Arrival Time: 02:52:51
+Completion Time: 02:53:01
+====================
+====================
+Teller 1
+Customer 77 : I
+Arrival Time: 02:53:00
+Response Time: 02:53:01
+====================
+====================
+Teller 3
+Customer 75 : D
+Arrival Time: 02:52:54
+Completion Time: 02:53:03
+====================
+====================
+Customer 78 : D
+Arrival Time: 02:53:03
+====================
+====================
+Teller 2
+Customer 78 : D
+Arrival Time: 02:53:03
+Response Time: 02:53:04
+====================
+====================
+Teller 4
+Customer 76 : W
+Arrival Time: 02:52:57
+Completion Time: 02:53:05
+====================
+====================
+Customer 79 : D
+Arrival Time: 02:53:06
+====================
+====================
+Teller 3
+Customer 79 : D
+Arrival Time: 02:53:06
+Response Time: 02:53:06
+====================
+====================
+Customer 80 : D
+Arrival Time: 02:53:09
+====================
+====================
+Teller 4
+Customer 80 : D
+Arrival Time: 02:53:09
+Response Time: 02:53:10
+====================
+====================
+Customer 81 : D
+Arrival Time: 02:53:12
+====================
+====================
+Teller 1
+Customer 77 : I
+Arrival Time: 02:53:00
+Completion Time: 02:53:13
+====================
+====================
+Teller 1
+Customer 81 : D
+Arrival Time: 02:53:12
+Response Time: 02:53:13
+====================
+====================
+Teller 2
+Customer 78 : D
+Arrival Time: 02:53:03
+Completion Time: 02:53:13
+====================
+====================
+Teller 3
+Customer 79 : D
+Arrival Time: 02:53:06
+Completion Time: 02:53:15
+====================
+====================
+Customer 82 : I
+Arrival Time: 02:53:15
+====================
+====================
+Teller 2
+Customer 82 : I
+Arrival Time: 02:53:15
+Response Time: 02:53:16
+====================
+====================
+Customer 83 : D
+Arrival Time: 02:53:18
+====================
+====================
+Teller 4
+Customer 80 : D
+Arrival Time: 02:53:09
+Completion Time: 02:53:19
+====================
+====================
+Teller 4
+Customer 83 : D
+Arrival Time: 02:53:18
+Response Time: 02:53:19
+====================
+====================
+Customer 84 : I
+Arrival Time: 02:53:21
+====================
+====================
+Teller 3
+Customer 84 : I
+Arrival Time: 02:53:21
+Response Time: 02:53:21
+====================
+====================
+Teller 1
+Customer 81 : D
+Arrival Time: 02:53:12
+Completion Time: 02:53:22
+====================
+====================
+Customer 85 : D
+Arrival Time: 02:53:24
+====================
+====================
+Teller 1
+Customer 85 : D
+Arrival Time: 02:53:24
+Response Time: 02:53:25
+====================
+====================
+Customer 86 : D
+Arrival Time: 02:53:27
+====================
+====================
+Teller 4
+Customer 83 : D
+Arrival Time: 02:53:18
+Completion Time: 02:53:28
+====================
+====================
+Teller 4
+Customer 86 : D
+Arrival Time: 02:53:27
+Response Time: 02:53:28
+====================
+====================
+Teller 2
+Customer 82 : I
+Arrival Time: 02:53:15
+Completion Time: 02:53:28
+====================
+====================
+Customer 87 : W
+Arrival Time: 02:53:30
+====================
+====================
+Teller 2
+Customer 87 : W
+Arrival Time: 02:53:30
+Response Time: 02:53:31
+====================
+====================
+Teller 3
+Customer 84 : I
+Arrival Time: 02:53:21
+Completion Time: 02:53:33
+====================
+====================
+Customer 88 : W
+Arrival Time: 02:53:33
+====================
+====================
+Teller 1
+Customer 85 : D
+Arrival Time: 02:53:24
+Completion Time: 02:53:34
+====================
+====================
+Teller 1
+Customer 88 : W
+Arrival Time: 02:53:33
+Response Time: 02:53:34
+====================
+====================
+Customer 89 : I
+Arrival Time: 02:53:36
+====================
+====================
+Teller 4
+Customer 86 : D
+Arrival Time: 02:53:27
+Completion Time: 02:53:37
+====================
+====================
+Teller 4
+Customer 89 : I
+Arrival Time: 02:53:36
+Response Time: 02:53:37
+====================
+====================
+Teller 2
+Customer 87 : W
+Arrival Time: 02:53:30
+Completion Time: 02:53:38
+====================
+====================
+Customer 90 : I
+Arrival Time: 02:53:39
+====================
+====================
+Teller 3
+Customer 90 : I
+Arrival Time: 02:53:39
+Response Time: 02:53:39
+====================
+====================
+Teller 1
+Customer 88 : W
+Arrival Time: 02:53:33
+Completion Time: 02:53:41
+====================
+====================
+Customer 91 : I
+Arrival Time: 02:53:42
+====================
+====================
+Teller 1
+Customer 91 : I
+Arrival Time: 02:53:42
+Response Time: 02:53:43
+====================
+====================
+Customer 92 : W
+Arrival Time: 02:53:45
+====================
+====================
+Teller 2
+Customer 92 : W
+Arrival Time: 02:53:45
+Response Time: 02:53:46
+====================
+====================
+Customer 93 : I
+Arrival Time: 02:53:48
+====================
+====================
+Teller 4
+Customer 89 : I
+Arrival Time: 02:53:36
+Completion Time: 02:53:49
+====================
+====================
+Teller 4
+Customer 93 : I
+Arrival Time: 02:53:48
+Response Time: 02:53:49
+====================
+====================
+Teller 3
+Customer 90 : I
+Arrival Time: 02:53:39
+Completion Time: 02:53:51
+====================
+====================
+Customer 94 : I
+Arrival Time: 02:53:51
+====================
+====================
+Teller 3
+Customer 94 : I
+Arrival Time: 02:53:51
+Response Time: 02:53:52
+====================
+====================
+Teller 2
+Customer 92 : W
+Arrival Time: 02:53:45
+Completion Time: 02:53:53
+====================
+====================
+Customer 95 : I
+Arrival Time: 02:53:54
+====================
+====================
+Teller 1
+Customer 91 : I
+Arrival Time: 02:53:42
+Completion Time: 02:53:55
+====================
+====================
+Teller 1
+Customer 95 : I
+Arrival Time: 02:53:54
+Response Time: 02:53:55
+====================
+====================
+Customer 96 : W
+Arrival Time: 02:53:57
+====================
+====================
+Teller 2
+Customer 96 : W
+Arrival Time: 02:53:57
+Response Time: 02:53:58
+====================
+====================
+Customer 97 : D
+Arrival Time: 02:54:00
+====================
+====================
+Teller 4
+Customer 93 : I
+Arrival Time: 02:53:48
+Completion Time: 02:54:01
+====================
+====================
+Teller 4
+Customer 97 : D
+Arrival Time: 02:54:00
+Response Time: 02:54:01
+====================
+====================
+Customer 98 : W
+Arrival Time: 02:54:03
+====================
+====================
+Teller 3
+Customer 94 : I
+Arrival Time: 02:53:51
+Completion Time: 02:54:04
+====================
+====================
+Teller 3
+Customer 98 : W
+Arrival Time: 02:54:03
+Response Time: 02:54:04
+====================
+====================
+Teller 2
+Customer 96 : W
+Arrival Time: 02:53:57
+Completion Time: 02:54:05
+====================
+====================
+Customer 99 : D
+Arrival Time: 02:54:06
+====================
+====================
+Teller 1
+Customer 95 : I
+Arrival Time: 02:53:54
+Completion Time: 02:54:07
+====================
+====================
+Teller 1
+Customer 99 : D
+Arrival Time: 02:54:06
+Response Time: 02:54:07
+====================
+====================
+Customer 100 : W
+Arrival Time: 02:54:09
+====================
+====================
+Teller 4
+Customer 97 : D
+Arrival Time: 02:54:00
+Completion Time: 02:54:10
+====================
+====================
+Teller 4
+Customer 100 : W
+Arrival Time: 02:54:09
+Response Time: 02:54:10
+====================
+====================
+Teller 3
+Customer 98 : W
+Arrival Time: 02:54:03
+Completion Time: 02:54:11
+====================
+====================
+Teller 1
+Customer 99 : D
+Arrival Time: 02:54:06
+Completion Time: 02:54:16
+====================
+====================
+Teller 4
+Customer 100 : W
+Arrival Time: 02:54:09
+Completion Time: 02:54:17
+====================
+====================
+Teller 4
+Served Customers: 28
+Start Time: 02:49:27
+Terminating at 02:54:17
+====================
+====================
+Teller 3
+Served Customers: 23
+Start Time: 02:49:30
+Terminating at 02:54:17
+====================
+====================
+Teller 2
+Served Customers: 22
+Start Time: 02:49:36
+Terminating at 02:54:17
+====================
+====================
+Teller 1
+Served Customers: 27
+Start Time: 02:49:19
+Terminating at 02:54:18
+====================

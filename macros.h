@@ -5,4 +5,6 @@
 
 #define TIME_BUFFER 50
 
+#define TELLERS
+
 #endif
