@@ -1,0 +1,21 @@
+## Running the program
+
+To run the program:
+
+1) First delete all contents in r_log.txt file to wipe away any previous runs
+
+2) Open the terminal and type make
+
+3) Type ./cq
+
+4) If intending to do another run of the simulation, repeat only step 1 and 3
+
+## Changing teller service times
+
+To change the time it takes for a teller to do a service:
+
+1) Go to file teller.c
+
+2) Change the sleep value of first 3 sleep calls in the teller function where
+    there is the comment // Teller performs service above it.
+

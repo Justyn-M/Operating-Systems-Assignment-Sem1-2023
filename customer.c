@@ -1,3 +1,5 @@
+// customer.c - customer function that reads and enqueues customers from c_file
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

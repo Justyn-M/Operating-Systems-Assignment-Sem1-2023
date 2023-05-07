@@ -1,3 +1,5 @@
+// teller.c - teller function for simulation
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
