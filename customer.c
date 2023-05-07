@@ -26,7 +26,7 @@ void customer(c_queue *queue)
     }
     srand(time(NULL));
     // Extracting customer and service
-    while (fgets(line, MAX_LINE_LENGTH, fp) != NULL ) // or no != NULL
+    while (fgets(line, MAX_LINE_LENGTH, fp) != NULL )
     {
         _customer new_customer;
         if (sscanf(line, "%d %c", &new_customer.c_number, &new_customer.service) == 2)
