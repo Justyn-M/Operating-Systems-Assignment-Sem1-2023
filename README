@@ -19,3 +19,5 @@ To change the time it takes for a teller to do a service:
 2) Change the sleep value of first 3 sleep calls in the teller function where
     there is the comment // Teller performs service above it.
 
+
+## Operating Systems is a 2nd year unit that I undertook in Curtin University. My mark for this assignment is 75%.
